@@ -1,0 +1,33 @@
+# Compiled binaries
+/spawndir
+/spawndir.exe
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test / coverage artifacts
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Dependency directories (none currently, reserved for future use)
+/vendor/
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Build-script source cache (scripts/build_wordlists.py)
+/scripts/.cache/
