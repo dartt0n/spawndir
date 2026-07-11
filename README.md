@@ -10,7 +10,7 @@ Randomness comes from `crypto/rand`, and the word lists are embedded into the bi
 ## Install
 
 ```sh
-go install github.com/dartt0n/spawndir
+go install github.com/dartt0n/spawndir@v1.0.0
 ```
 
 Or build from source:
